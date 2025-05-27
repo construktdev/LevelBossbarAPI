@@ -1,0 +1,7 @@
+name: BossbarLevels
+version: '1.0.0'
+main: de.construkter.bossbarLevels.BossbarLevels
+api-version: '1.21'
+authors: [ Construkter ]
+description: GlitzoriumSMP | Lock Chests easily
+website: https://construkter.de
